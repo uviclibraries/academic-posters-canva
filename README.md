@@ -1,4 +1,4 @@
-# WORKSHOP Name goes here...
+# Academic Posters With PowerPoint
 ### UVic Libraries Digital Scholarship Commmons
 
 Link to workshop: https://richmccue.github.io/dsc-template/
