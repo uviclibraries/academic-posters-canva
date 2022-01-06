@@ -1,6 +1,16 @@
 ---
+layout: default
+title: References
+nav_order: 12
 ---
 
-# title
+# References
+
+-   asdf
+-   asdf
+-   asdf
+-   asdf
+-   asdf
+-   asdf
 
 [NEXT STEP: Workshop Evaluation Survey](workshop-survey.html){: .btn .btn-blue }
