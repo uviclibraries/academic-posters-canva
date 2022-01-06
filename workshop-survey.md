@@ -9,4 +9,4 @@ If you feel so inclined, please complete the following survey to help us ensure 
 
 [How did we do?](http://bit.ly/dsc-eval){:target="_blank"}
 
-[NEXT STEP: Land acknowledgement](land-acknowledgement.html){: .btn .btn-blue }
+[NEXT STEP: References](references.html){: .btn .btn-blue }
