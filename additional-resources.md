@@ -3,10 +3,11 @@ layout: default
 title: Additional Resources
 nav_order: 10
 ---
+
 # Additional Resources & Acknowledgements
 
-## WORKSHOP NAME HERE Resources
-
+## Academic Poster Resources
+- **COMING SOON**
 
 ## Acknowledgements
 
