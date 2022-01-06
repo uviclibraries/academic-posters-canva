@@ -13,4 +13,4 @@ nav_order: 12
 -   asdf
 -   asdf
 
-[NEXT STEP: Workshop Evaluation Survey](workshop-survey.html){: .btn .btn-blue }
+[NEXT STEP: Land acknowledgement](land-acknowledgement.html){: .btn .btn-blue }
