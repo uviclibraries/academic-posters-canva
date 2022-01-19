@@ -5,6 +5,8 @@ nav_order: 4
 parent: Workshop Activities
 ---
 
-# title
+# Academic Posters - Quick Tips
+
+
 
 {button}
