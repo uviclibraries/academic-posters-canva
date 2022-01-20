@@ -34,7 +34,7 @@ parent: Workshop Activities
     <br>
     **Design and Layout Tips**
 
-1.  Start with a Template. UVic has Academic Poster templates available for use (download). Here’s an article to help inspire you to tell a story and draw people into a conversation about the main findings of your paper: http://bit.ly/better-posters
+1.  Start with a Template. UVic has [Academic Poster templates available for use](http://web.uvic.ca/~rmccue/UVicEdge_ResearchPoster.pptx){:target="_blank"} (download). Here’s an article to help inspire you to tell a story and draw people into a conversation about the main findings of your paper: [http://bit.ly/better-posters](http://bit.ly/better-posters){:target="_blank"}
 2.  Make sure your poster meets the guidelines for the event at which it will be displayed.
 3.  All important information should be visible from 3m (10ft) away. Don’t put too much text on your poster!
 4.  Your Title and Main finding should be short and draw interest (Academic titles often are not good at drawing interest). DON’T USE ALL CAPS. If you have an interesting finding, include it in your title.
@@ -59,13 +59,13 @@ parent: Workshop Activities
 5.  If you have graphs or charts from Excel, simply copy and paste into Powerpoint.
 6.  Do not enlarge images after they have been inserted into Powerpoint.
 7.  Where to get high-resolution Creative Commons licensed photos?
-    -   Unspash.com
-    -   Pexels.com
-    -   Create Biology figures
-    -   Full colour clip art with transparent background
-    -   Free icons to help describe your research story
-    -   Google Advanced Image Search
-    -   CreativeCommons image search
+    -   [Unspash.com](https://unsplash.com){:target="_blank"}
+    -   [Pexels.com](https://www.pexels.com/){:target="_blank"}
+    -   [Create Biology figures](http://BioRender.com){:target="_blank"}
+    -   [Full colour clip art with transparent background](https://vectorstock.com){:target="_blank"}
+    -   [Free icons to help describe your research story](https://thenounproject.com){:target="_blank"}
+    -   [Google Advanced Image Search](https://www.google.ca/advanced_image_search){:target="_blank"}
+    -   [CreativeCommons image search](https://search.creativecommons.org/){:target="_blank"}
 8.  Don’t forget to provide captions for your graphics & photos.
 9.  You can crop your images and charts directly in PowerPoint.
 
@@ -73,8 +73,8 @@ parent: Workshop Activities
     **Copyright Issues For Images**
 
 0.  Published images and charts are all subject to copyright law, so you can’t simply use images you find on the Internet or through Google image search. Generally speaking images you may want to use for your poster fall under one of the following categories:
-    -   Public domain - you can use and modify public domain images as you see fit. Please consult a copyright librarian or online resource to determine the copyright status of an image. Example: UVic’s Copyright Resource.
-    -   Creative Commons - you can usually use and modify Creative Commons licensed images providing you include the appropriate citation. See the previous section for websites and search engines that help you find Creative Commons licenced images.
+    -   Public domain - you can use and modify public domain images as you see fit. Please consult a copyright librarian or online resource to determine the copyright status of an image. Example: [UVic’s Copyright Resource.](https://www.uvic.ca/library/featured/copyright/support/resources/index.php){:target="_blank"}
+    -   Creative Commons - you can usually use and modify Creative Commons licensed images providing you include the appropriate citation. See the previous section for websites and search engines that help you find Creative Commons licensed images.
     -   Copyright - you can only use and/or modify copyrighted images with explicit permission from the copyright holder, for a specified purpose and often only after paying a fee. NOTE: If you have taken a picture yourself or created a chart or graphic, you own the copyright to those works and can use them as you see fit.
 
     <br>
