@@ -56,4 +56,4 @@ In this exercise, you will create an Academic Poster using PowerPoint and the #B
 
     <img src="images/act-2/" alt="" style="float:right;width:180px;">
 
-[NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
+[NEXT STEP: Quick Tips](tips.html){: .btn .btn-blue }
