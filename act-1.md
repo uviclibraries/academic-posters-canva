@@ -16,7 +16,7 @@ In this exercise, you will create an Academic Poster using PowerPoint 2016. If y
 
 1.  Open PowerPoint & a Poster template:
     -   If you were able to find a conference poster template for your faculty during the pre-work for this workshop, open it now.
-    -   If you don’t have a faculty template, please download and open the following [UVic template in PowerPoint](https://web.uvic.ca/~rmccue/UVicEdge_ResearchPoster.pptx){:target="_blank"}
+    -   If you don’t have a faculty template, please download and open the following [UVic template in PowerPoint.](https://web.uvic.ca/~rmccue/UVicEdge_ResearchPoster.pptx){:target="_blank"}
 2.  Click on the **New Slide** button under the home tab and then select the first poster template with three columns.
 3.  Confirm or change the size and orientation of your poster:
     -   Click on the **Design** tab in the top ribbon, and then on the far right click on the **Slide Size** drop-down, and then **Custom Slide Size...**
