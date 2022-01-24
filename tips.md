@@ -90,4 +90,4 @@ parent: Workshop Activities
 -   [https://projects.ncsu.edu/project/posters/](https://projects.ncsu.edu/project/posters/){:target="_blank"}
 -   [https://library.ryerson.ca/copyright/resources/general-copyright-information/copyright-basics/](https://library.ryerson.ca/copyright/resources/general-copyright-information/copyright-basics/){:target="_blank"}
 
-{button}
+[NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
