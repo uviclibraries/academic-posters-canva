@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3-tips
+title: 3-Quick Tips
 nav_order: 4
 parent: Workshop Activities
 ---
