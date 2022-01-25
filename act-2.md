@@ -57,7 +57,7 @@ In this exercise, you will create an Academic Poster using PowerPoint and the #B
     -   Select the **Insert** tab on the top menu, and then click on the **Pictures** button. Navigate to find the QR Code image on your computer and press the **Insert** button.
     -   Drag the QR Code to the location on your poster where you would like it to sit, then resize it.
 8.  Final formatting tip for your poster: Make sure your poster is balanced across your three columns with text, photos, and charts.
-9.  You can print your poster at Zap Copy in the student union building: [https://zapcopy.com/printing/](https://zapcopy.com/printing/){:target=:_blank"}
+9.  You can print your poster at Zap Copy in the student union building: [https://zapcopy.com/printing/](https://zapcopy.com/printing/){:target=_blank"}
 
     <img src="images/act-2/9.png" alt="" style="width:720px;">
 
