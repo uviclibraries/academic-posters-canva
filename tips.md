@@ -5,6 +5,8 @@ nav_order: 4
 parent: Workshop Activities
 ---
 
+<img src="images/act-3/0.png" alt="" style="float:right;width:180px;">
+
 # Academic Posters - Quick Tips
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Getting Started**
