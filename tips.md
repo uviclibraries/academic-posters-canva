@@ -7,7 +7,7 @@ parent: Workshop Activities
 
 # Academic Posters - Quick Tips
 
-<img src="images/act-3/0.png" alt="" style="float:right;width:360px;">
+<img src="images/act-3/0.png" alt="" style="float:right;width:360px;margin-left:10px;">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Getting Started**
 
