@@ -5,7 +5,7 @@ nav_order: 2
 parent: Workshop Activities
 ---
 
-<img src="images/act-1/0.png" alt="" style="float:right;width:240px;">
+<img src="images/act-1/0.png" alt="" style="float:right;width:360px;">
 
 # Introduction to Academic Posters With The UVic PowerPoint Template
 
