@@ -5,9 +5,9 @@ nav_order: 2
 parent: Workshop Activities
 ---
 
-<img src="images/act-1/0.png" alt="" style="float:right;width:360px;margin-left:10px;">
-
 # Introduction to Academic Posters With The UVic PowerPoint Template
+
+<img src="images/act-1/0.png" alt="" style="float:right;width:360px;margin-left:10px;">
 
 In this exercise, you will create an Academic Poster using PowerPoint 2016. If you have any questions or get stuck, please ask your instructor for assistance.
 
