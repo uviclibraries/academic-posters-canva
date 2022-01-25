@@ -11,8 +11,6 @@ parent: Workshop Activities
 
 In this exercise, you will create an Academic Poster using PowerPoint 2016. If you have any questions or get stuck, please ask your instructor for assistance.
 
-<img src="images/act-1/2.png" alt="" style="float:right;width:240px;">
-
 1.  Open PowerPoint & a Poster template:
     -   If you were able to find a conference poster template for your faculty during the pre-work for this workshop, open it now.
     -   If you don’t have a faculty template, please download and open the following [UVic template in PowerPoint.](https://web.uvic.ca/~rmccue/UVicEdge_ResearchPoster.pptx){:target="_blank"}
