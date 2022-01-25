@@ -33,7 +33,7 @@ In this exercise, you will create an Academic Poster using PowerPoint 2016. If y
     -   For example, if the title is long, you could put the first few words in the top title with the larger font: “Flipping the Makerspace:” and then the rest of the title on the line below with the smaller font: “to Maximizing Active Learning Time in Introductory Workshops.”
     -   You might want to consider adding a small text block into the title in order to add author, affiliation, and conference or event information. To do this go to the **Insert** tab, and then select the **Text Box** button on the ribbon. You will need to change the font colour to white using the tool on the **Home** tab.
 
-    <img src="images/act-1/5.png" alt="" style="float:right;width:180px;">
+    <img src="images/act-1/5.png" alt="" style="width:720px;">
 
 6.  Copy and paste the summarized text into the poster columns, flowing from left to right, down columns, leaving room for the photos and/or charts you would like to include.
     -   Your poster needs to be readable at a distance so body text should be no smaller than 32 points, and your text should be black on a white or very light background.
