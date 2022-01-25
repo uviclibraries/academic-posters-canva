@@ -27,13 +27,13 @@ In this exercise, you will create an Academic Poster using PowerPoint and the #B
     -   Your poster needs to be readable at a distance so body text should be no smaller than 32 points, and your text should be black on a white or very light background.
     -   If you are printing your poster use a serif font (e.g. Times New Roman). If your poster will be online only, then use a non-serif font (e.g. Ariel).
 
-    <img src="images/act-2/5.png" alt="" style="float:right;width:360px;">
+    <img src="images/act-2/5.png" alt="" style="float:right;width:240px;">
 
 5.  Inserting & formatting pictures:
     -   Make sure the picture you would like to insert is on your laptop’s hard drive. Now select the **Insert** tab on the top menu, and then click on the **Pictures** button. Navigate to find the photo on your computer and press the **Insert** button.
     -   Drag the photo to the location on your poster where you would like it to sit, then resize the photo and make sure you’ve left enough space for a caption below the photo. Insert a text box for a caption below the photo (see step 5b for how to insert a new text box).
     
-        <img src="images/act-2/5-2.png" alt="" style="float:right;width:360px;">
+        <img src="images/act-2/5-2.png" alt="" style="float:right;width:240px;">
     
     -   Ideally, you edit your photos before importing them into PowerPoint, but if you need to do some minor editing in PowerPoint, right-click on the image and then select **Format Picture…**  Next click on the image icon (see graphic to the right), and then experiment changing the Sharpness, Brightness, Contrast, Saturation, and Temperature.
 6.  Inserting charts:
