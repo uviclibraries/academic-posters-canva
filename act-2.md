@@ -5,9 +5,9 @@ nav_order: 3
 parent: Workshop Activities
 ---
 
-<img src="images/act-2/1.png" alt="" style="float:right;width:360px;">
-
 # Introduction to Academic Posters With The #BetterPoster Template
+
+<img src="images/act-2/1.png" alt="" style="float:right;width:240px;">
 
 In this exercise, you will create an Academic Poster using PowerPoint and the #BetterPoster template. If you have any questions or get stuck, please ask your instructor for assistance.
 
