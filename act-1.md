@@ -7,7 +7,7 @@ parent: Workshop Activities
 
 # Introduction to Academic Posters With The UVic PowerPoint Template
 
-<img src="images/act-1/0.png" alt="" style="float:right;width:360px;margin-left:10px;">
+<img src="images/act-1/0.png" alt="poster example" style="float:right;width:360px;margin-left:10px;">
 
 In this exercise, you will create an Academic Poster using PowerPoint 2016. If you have any questions or get stuck, please ask your instructor for assistance.
 
@@ -15,7 +15,7 @@ In this exercise, you will create an Academic Poster using PowerPoint 2016. If y
     -   If you were able to find a conference poster template for your faculty during the pre-work for this workshop, open it now.
     -   If you don’t have a faculty template, please download and open the following [UVic template in PowerPoint.](https://web.uvic.ca/~rmccue/UVicEdge_ResearchPoster.pptx){:target="_blank"}
 
-    <img src="images/act-1/1.png" alt="" style="float:right;width:240px;margin-left:10px;">
+    <img src="images/act-1/1.png" alt="new slide" style="float:right;width:240px;margin-left:10px;">
 
 2.  Click on the **New Slide** button under the home tab and then select the first poster template with three columns.
 3.  Confirm or change the size and orientation of your poster:
@@ -31,19 +31,19 @@ In this exercise, you will create an Academic Poster using PowerPoint 2016. If y
     -   For example, if the title is long, you could put the first few words in the top title with the larger font: “Flipping the Makerspace:” and then the rest of the title on the line below with the smaller font: “to Maximizing Active Learning Time in Introductory Workshops.”
     -   You might want to consider adding a small text block into the title in order to add author, affiliation, and conference or event information. To do this go to the **Insert** tab, and then select the **Text Box** button on the ribbon. You will need to change the font colour to white using the tool on the **Home** tab.
 
-    <img src="images/act-1/5.png" alt="" style="width:720px;">
+    <img src="images/act-1/5.png" alt="title and subtitle" style="width:720px;">
 
 6.  Copy and paste the summarized text into the poster columns, flowing from left to right, down columns, leaving room for the photos and/or charts you would like to include.
     -   Your poster needs to be readable at a distance so body text should be no smaller than 32 points, and your text should be black on a white or very light background.
     -   Use a serif font (e.g. Times New Roman) rather than a non-serif font (e.g. Ariel).
 
-    <img src="images/act-1/7.png" alt="" style="float:right;width:240px;margin-left:10px;">
+    <img src="images/act-1/7.png" alt="insert pictures" style="float:right;width:240px;margin-left:10px;">
 
 7.  Inserting & formatting pictures:
     -   Make sure the picture you would like to insert is on your laptop’s hard drive. Now select the **Insert** tab on the top menu, and then click on the **Pictures** button. Navigate to find the photo on your computer and press the **Insert** button.
     -   Drag the photo to the location on your poster where you would like it to sit, then resize the photo and make sure you’ve left enough space for a caption below the photo. Insert a text box for a caption below the photo (see step 5b for how to insert a new text box).
     
-    <img src="images/act-1/7-2.png" alt="" style="float:right;width:240px;margin-left:10px;">
+    <img src="images/act-1/7-2.png" alt="format picture" style="float:right;width:240px;margin-left:10px;">
     
     -   Ideally, you edit your photos before importing them into PowerPoint, but if you need to do some minor editing in PowerPoint, right-click on the image and then select **Format Picture…**  Next click on the image icon (see graphic to the right), and then experiment changing the Sharpness, Brightness, Contrast, Saturation, and Temperature.
 8.  Inserting charts:
@@ -54,6 +54,6 @@ In this exercise, you will create an Academic Poster using PowerPoint 2016. If y
 9.  Final formatting tip for your poster: Make sure your poster is balanced across your three columns with text, photos, and charts.
 0.  You can print your poster at Blink Copy in the basement of the campus book store.
 
-    <img src="images/act-1/0.png" alt="" style="width:720px;">
+    <img src="images/act-1/0.png" alt="example of poster" style="width:720px;">
 
 [NEXT STEP: #BetterPoster Activity](act-2.html){: .btn .btn-blue }
