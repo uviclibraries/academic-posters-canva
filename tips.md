@@ -36,7 +36,7 @@ parent: Workshop Activities
     <br>
     **Design and Layout Tips**
 
-1.  Start with a Template. UVic has <a href="" download>Academic Poster templates available for use</a> (download). Here’s an article to help inspire you to tell a story and draw people into a conversation about the main findings of your paper: [http://bit.ly/better-posters](http://bit.ly/better-posters){:target="_blank"}
+1.  Start with a Template. UVic has <a href="resources/" download>Academic Poster templates available for use</a> (download). Here’s an article to help inspire you to tell a story and draw people into a conversation about the main findings of your paper: [http://bit.ly/better-posters](http://bit.ly/better-posters){:target="_blank"}
 2.  Make sure your poster meets the guidelines for the event at which it will be displayed.
 3.  All important information should be visible from 3m (10ft) away. Don’t put too much text on your poster!
 4.  Your Title and Main finding should be short and draw interest (Academic titles often are not good at drawing interest). DON’T USE ALL CAPS. If you have an interesting finding, include it in your title.
