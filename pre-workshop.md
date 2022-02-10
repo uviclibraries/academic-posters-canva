@@ -11,8 +11,6 @@ This workshop is primarily hands-on practice with PowerPoint in order to learn t
     <iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 -   Key multimedia learning principles for poster design (? min)
--   [What should I include in my poster](http://bit.ly/2wa1lv1){:target="_blank"} (4 min)
--   [Poster layout, fonts, and logos](http://bit.ly/2w9vDhE){:target="_blank"}
 -   [Fixing academic posters: the #BetterPoster approach](https://astrobites.org/2020/02/28/fixing-academic-posters-the-betterposter-approach/){:target="_blank"}
 -   OPTIONAL: [UVic Academic Poster Template](http://bit.ly/2OxB9Wi){:target="_blank"} (click on the Academic Research Poster tab)
 -   OPTIONAL: Free sources of quality images:
