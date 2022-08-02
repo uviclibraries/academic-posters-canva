@@ -6,7 +6,7 @@ nav_order: 2
 ## Pre-Workshop Videos & Activities
 This workshop is primarily hands-on practice with PowerPoint in order to learn to use key features of the software. To participate fully please do the following **before the workshop**:
 
--   [#Better Poster video](https://www.youtube.com/watch?v=2gGUku59L_k){:target="_blank"} (? min)
+-   [#Better Poster video](https://www.youtube.com/watch?v=2gGUku59L_k){:target="_blank"} (3 min)
 
     <iframe width="560" height="315" src="https://www.youtube.com/watch?v=2gGUku59L_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
