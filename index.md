@@ -12,7 +12,7 @@ nav_order: 1
 
 ## Why PowerPoint?
 
-# **BETTER INTRO HERE**
+
 
 ## Learning objectives
 
