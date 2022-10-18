@@ -6,9 +6,9 @@ nav_order: 2
 ## Pre-Workshop Videos & Activities
 This workshop is primarily hands-on practice with PowerPoint in order to learn to use key features of the software. To participate fully please do the following **before the workshop**:
 
--   [#Better Poster video](https://www.youtube.com/watch?v=2gGUku59L_k){:target="_blank"} (3 min)
+-   [#Better Poster video](https://www.youtube.com/watch?v=SYk29tnxASs){:target="_blank"} (19 min)
 
-    <iframe width="560" height="315" src="https://www.youtube.com/watch?v=2gGUku59L_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; allowfullscreen;"></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/watch?v=SYk29tnxASs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; allowfullscreen;"></iframe>
 
 -   Key multimedia learning principles for poster design (Comming Soon...)
 -   [Fixing academic posters: the #BetterPoster approach](https://astrobites.org/2020/02/28/fixing-academic-posters-the-betterposter-approach/){:target="_blank"}
