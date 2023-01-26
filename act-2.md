@@ -11,7 +11,7 @@ parent: Workshop Activities
 
 In this exercise, you will create an Academic Poster using PowerPoint and the #BetterPoster template.  If you have any questions or get stuck, please ask your instructor for assistance.
 
-**NOTE:** If you are already familiar with the Canva design tool, you may want to use our [**Canva #BetterPoser template**](https://www.canva.com/design/DAFYzpd1yU8/olf9xuPArpgDg7WZmWMIQA/view){:target="_blank"} -instead- of the PowerPoint template and related instructions below. 
+**NOTE:** If you are already familiar with the Canva design tool, you may want to use our [**Canva #BetterPoser template**]([https://www.canva.com/design/DAFYzpd1yU8/olf9xuPArpgDg7WZmWMIQA/view](https://www.canva.com/design/DAFYzpd1yU8/olf9xuPArpgDg7WZmWMIQA/view?utm_content=DAFYzpd1yU8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)){:target="_blank"} -instead- of the PowerPoint template and related instructions below. 
 
 1.  Open PowerPoint & a Poster template:
     -   If you were able to find a conference poster template for your faculty during the pre-work for this workshop, open it now.
