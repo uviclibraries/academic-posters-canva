@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 2-#BetterPoster Activity
-nav_order: 3
+title: 1-#BetterPoster Activity
+nav_order: 2
 parent: Workshop Activities
 ---
 
