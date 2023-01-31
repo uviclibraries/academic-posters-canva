@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 1-UVic Template
-nav_order: 2
+title: 2-UVic PPT Template
+nav_order: 3
 parent: Workshop Activities
 ---
 
