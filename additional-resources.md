@@ -7,7 +7,7 @@ nav_order: 10
 # Additional Resources & Acknowledgements
 
 ## Academic Poster Resources
-- **COMING SOON**
+- An excellent research study looking at the effectivness of traditional academic posters vs. Billobard style posters - [A step in the right direction: Billboard-style posters preferred overall at two conferences, but should include more methods and limitations](https://www.qeios.com/read/P7N5BO)
 
 ## Acknowledgements
 
