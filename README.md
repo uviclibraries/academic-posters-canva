@@ -1,4 +1,4 @@
-# Academic Posters With PowerPoint
+# Academic Posters
 ### UVic Libraries Digital Scholarship Commmons
 
 Link to workshop: https://uviclibraries.github.io/posters-powerpoint/
