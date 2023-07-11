@@ -13,7 +13,7 @@ This workshop is primarily hands-on practice with PowerPoint in order to learn t
 
 -   Key multimedia learning principles for poster design (Comming Soon...)
 -   [Fixing academic posters: the #BetterPoster approach](https://astrobites.org/2020/02/28/fixing-academic-posters-the-betterposter-approach/){:target="_blank"}
--   OPTIONAL: [UVic Academic Poster Template](http://bit.ly/2OxB9Wi){:target="_blank"} (click on the Academic Research Poster tab)
+-   OPTIONAL: [UVic Academic Poster Template for PowerPoint](http://bit.ly/2OxB9Wi){:target="_blank"} (click on the Academic Research Posters option)
 -   OPTIONAL: Free sources of quality images:
     -   [Unspash.com](https://unsplash.com){:target="_blank"}
     -   [Create Biology figures](http://BioRender.com){:target="_blank"}
@@ -21,6 +21,6 @@ This workshop is primarily hands-on practice with PowerPoint in order to learn t
     -   [Free icons to help describe your research story](https://thenounproject.com){:target="_blank"}
     -   [Google Advanced Image Search](https://www.google.ca/advanced_image_search){:target="_blank"}
     -   [CreativeCommons image search](https://search.creativecommons.org/){:target="_blank"}
--   OPTIONAL: Local poster printing service - [Zap](https://zapcopy.com/printing/){:target="_blank"}
+-   OPTIONAL: Local poster printing service - [Blink](https://www.uvic.ca/print/blink/index.php){:target="_blank"}
 
 [NEXT STEP: Introduction to Hands-On Activities](activities-intro.html){: .btn .btn-blue }
