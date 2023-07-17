@@ -11,6 +11,8 @@ parent: Workshop Activities
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Getting Started**
 
+Along with the following tips, a sheet you may find useful is the [worksheet from our Infographics workshop to help distill down your research into a more condensed form:](https://uviclibraries.github.io/infographics/7-canva-infographic-plan.html){:target="_blank"}
+
 1.  An effective poster is a visual communications tool. It:
     -   Focuses on a single message.
     -   Let graphics and images tell the story using text sparingly.
