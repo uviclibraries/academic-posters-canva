@@ -12,7 +12,7 @@ parent: Workshop Activities
 In this exercise, you will create an Academic Poster using Canva. If you have any questions or get stuck, please ask your instructor for assistance. 
 
 1.  Create a Canva account at 
-[canva.com](https://web.uvic.ca/~rmccue/UVicEdge_ResearchPoster.pptx](https://www.canva.com/){:target="_blank"}
+[canva.com](https://ww.canva.com/){:target="_blank"}
 
     <img src="images/act-1/1.png" alt="new slide" style="float:right;width:240px;margin-left:10px;">
 
