@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 1-Customize Your Poster
+title: 2 -Customize Your Poster
 nav_order: 3
 parent: Workshop Activities
 ---
