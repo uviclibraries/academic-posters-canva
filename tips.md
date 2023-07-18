@@ -7,9 +7,7 @@ parent: Workshop Activities
 
 # Academic Posters - Quick Tips
 
-
-
-    **Getting Started**
+   **Getting Started**
 
 Along with the following tips, a sheet you may find useful is the [worksheet from our Infographics workshop to help distill down your research into a more condensed form:](https://uviclibraries.github.io/infographics/7-canva-infographic-plan.html){:target="_blank"}
 
@@ -19,6 +17,7 @@ Along with the following tips, a sheet you may find useful is the [worksheet fro
     -   Keeps the sequence well-ordered and obvious.
 2.  What is the most important or interesting finding from your research project?
 3.  An academic poster is not a research paper stuck to a board; it shows, not tells, your research story.
+
 <br>
      **Define Your Message**
 
