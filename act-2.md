@@ -22,7 +22,7 @@ In this exercise, you will use tools within Canva to make changes to a template.
 
 4.  Charts:
     -   In the second (and/or third) page of the template you can find charts and possibly other themed graphics for the Research Poster template you have chosen. You can simply click on them and drag them up to the first page if you would like to use them in your poster.
-    -   When a chart is selected, a toolbar will appear on the left side with options to fill in the details for the chart.<img src="images/27.png" alt="new slide menu" style="float:right;width:200px;margin-left:10px;">
+    -   When a chart is selected, a toolbar will appear on the left side with options to fill in the details for the chart.<img src="images/27.png" alt="new slide menu" style="float:right;width:200px;margin-left:10px;"><br>
     -   Additionally, the Edit menu at the top will change with options specific to the chart, such as tiles to customize the colours of the chart and options to adjust the roundness of the chart lines, and change the size and shape of marker points.
     -   If using a pictogram, options will come up in the toolbar to change the icons to more appropiately match the theme of your data.<img src="images/28.png" alt="new slide menu" style="float:right;width:200px;margin-left:10px;">
 
@@ -30,7 +30,7 @@ In this exercise, you will use tools within Canva to make changes to a template.
 
 
 
-
+<br>
 5.  Adding Elements:<img src="images/19.png" alt="new slide menu" style="float:right;margin-left:10px;">
     -   If you would like to search for more clipart, charts, or photos to add to your poster, click on the Elements icon in the far left sidebar menu.
     -   Many clipart items can have their colours customized. To edit the colours, click on the clipart in your poster to select it and then click on the colour tiles in the top menu to bring up the colour menu and select a replacement colour. 
