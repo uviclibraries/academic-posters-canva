@@ -7,9 +7,9 @@ parent: Workshop Activities
 
 # Academic Posters - Quick Tips
 
-<img src="images/act-3/0.png" alt="poster example" style="float:right;width:360px;margin-left:10px;">
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Getting Started**
+
+    **Getting Started**
 
 Along with the following tips, a sheet you may find useful is the [worksheet from our Infographics workshop to help distill down your research into a more condensed form:](https://uviclibraries.github.io/infographics/7-canva-infographic-plan.html){:target="_blank"}
 
@@ -19,9 +19,8 @@ Along with the following tips, a sheet you may find useful is the [worksheet fro
     -   Keeps the sequence well-ordered and obvious.
 2.  What is the most important or interesting finding from your research project?
 3.  An academic poster is not a research paper stuck to a board; it shows, not tells, your research story.
-
-    <br>
-    **Define Your Message**
+<br>
+     **Define Your Message**
 
 4.  What is the one thing you want your audience to learn?
 5.  Your “one thing” should be supported by a compelling combination of images, charts, and short blocks of text.
@@ -29,7 +28,7 @@ Along with the following tips, a sheet you may find useful is the [worksheet fro
 7.  If you have an interesting result, state it explicitly in your title.
 8.  Space is tight, so rather than repeating the results, state your interpretations in the conclusion section.
 
-    <br>
+
     **Know Your Audience**
 
 9.  General audience? If so, they won’t have any familiarity with your subject area – avoid the use of jargon, use basic descriptions only.
@@ -70,12 +69,11 @@ Along with the following tips, a sheet you may find useful is the [worksheet fro
     -   [Google Advanced Image Search](https://www.google.ca/advanced_image_search){:target="_blank"}
     -   [CreativeCommons image search](https://search.creativecommons.org/){:target="_blank"}
 7.  Don’t forget to provide captions for your graphics & photos.
-9. 
 
     <br>
     **Copyright Issues For Images**
 
-10.  Published images and charts are all subject to copyright law, so you can’t simply use images you find on the internet or through Google image search. Generally speaking images you may want to use for your poster fall under one of the following categories:
+0.  Published images and charts are all subject to copyright law, so you can’t simply use images you find on the internet or through Google image search. Generally speaking images you may want to use for your poster fall under one of the following categories:
     -   Public domain - you can use and modify public domain images as you see fit. Please consult a copyright librarian or online resource to determine the copyright status of an image. Example: [UVic’s Copyright Resource.](https://www.uvic.ca/library/featured/copyright/support/resources/index.php){:target="_blank"}
     -   Creative Commons - you can usually use and modify Creative Commons licensed images providing you include the appropriate citation. See the previous section for websites and search engines that help you find Creative Commons licensed images.
     -   Copyright - you can only use and/or modify copyrighted images with explicit permission from the copyright holder, for a specified purpose and often only after paying a fee. NOTE: If you have taken a picture yourself or created a chart or graphic, you own the copyright to those works and can use them as you see fit.
