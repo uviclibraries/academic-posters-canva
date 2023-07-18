@@ -77,17 +77,6 @@ Along with the following tips, a sheet you may find useful is the [worksheet fro
     -   Creative Commons - you can usually use and modify Creative Commons licensed images providing you include the appropriate citation. See the previous section for websites and search engines that help you find Creative Commons licensed images.
     -   Copyright - you can only use and/or modify copyrighted images with explicit permission from the copyright holder, for a specified purpose and often only after paying a fee. NOTE: If you have taken a picture yourself or created a chart or graphic, you own the copyright to those works and can use them as you see fit.
 
-    <br>
-    **References and Resources**
 
--   [https://www.uvic.ca/learningandteaching/faculty/resources/instructional/academicposters/index.php](https://www.uvic.ca/learningandteaching/faculty/resources/instructional/academicposters/index.php){:target="_blank"}
--   [https://libguides.viu.ca/ld.php?content_id=34280072](https://libguides.viu.ca/ld.php?content_id=34280072){:target="_blank"}
--   [http://duspviz.mit.edu/tutorials/adobe-indesign-posters/](http://duspviz.mit.edu/tutorials/adobe-indesign-posters/){:target="_blank"}
--   [http://www.materials.ox.ac.uk/uploads/file/postgrads/Posters%20-%20skills%20workshop%20(Baker,%202012).pdf](http://www.materials.ox.ac.uk/uploads/file/postgrads/Posters%20-%20skills%20workshop%20(Baker,%202012).pdf){:target="_blank"}
--   [https://www.slideshare.net/blueskiesbroken/workshop-designing-effective-poster-presentations](https://www.slideshare.net/blueskiesbroken/workshop-designing-effective-poster-presentations){:target="_blank"}
--   [https://www.slideshare.net/researchcenterm/poster-workshop-48532332](https://www.slideshare.net/researchcenterm/poster-workshop-48532332){:target="_blank"}
--   [https://guides.nyu.edu/c.php?g=276826&p=1846156](https://guides.nyu.edu/c.php?g=276826&p=1846156){:target="_blank"}
--   [https://projects.ncsu.edu/project/posters/](https://projects.ncsu.edu/project/posters/){:target="_blank"}
--   [https://library.ryerson.ca/copyright/resources/general-copyright-information/copyright-basics/](https://library.ryerson.ca/copyright/resources/general-copyright-information/copyright-basics/){:target="_blank"}
 
 [NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
