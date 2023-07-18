@@ -8,7 +8,7 @@ parent: Workshop Activities
 
 Please review the following links:
 
-- Read the [Introductory Slides](http://bit.ly/2q5i7rP){:target="_blank"} 
+- Read the [Introductory Slides]([http://bit.ly/2q5i7rP](https://docs.google.com/presentation/d/1CLpHDA4RILwO5QhZzPc1jcM8p4zRTttzRaqLsR-CFbE/edit?usp=sharing){:target="_blank"} 
 
 - Video: [Resize Your Laptop Screen for Workshop Handouts (2 min)](https://www.youtube.com/watch?v=Igk5hZUfzN0){:target="_blank"}
 
