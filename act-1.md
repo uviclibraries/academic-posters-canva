@@ -7,14 +7,14 @@ parent: Workshop Activities
 
 # Find a Template on Canva
 
-<img src="images/act-1/0.png" alt="poster example" style="float:right;width:360px;margin-left:10px;">
+<img src="images/25.png" alt="poster example" style="float:right;width:360px;margin-left:10px;">
 
 In this exercise, you will create an Academic Poster using Canva. If you have any questions or get stuck, please ask your instructor for assistance. 
 
 1.  Create a Canva account at 
 [canva.com](https://ww.canva.com/){:target="_blank"}
 
-    <img src="images/act-1/1.png" alt="new slide" style="float:right;width:240px;margin-left:10px;">
+    <img src="images/01.png" alt="new slide" style="float:right;width:240px;margin-left:10px;">
 
 2.  Click on the Create a design button on the top right of the screen.
     - At the bottom of the drop-down that comes up, there is a button for “Custom size”. Click on this to bring up sizing options.
