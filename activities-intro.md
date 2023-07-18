@@ -15,4 +15,4 @@ Please review the following links:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZUbktMdU9Lo" title="Academic Posters with PowerPoint & #BetterPoster Template" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-[NEXT STEP: PowerPoint Poster Activity - UVic Template](act-1.html){: .btn .btn-blue }
+[NEXT STEP: Find a Template on Canva](act-1.html){: .btn .btn-blue }
