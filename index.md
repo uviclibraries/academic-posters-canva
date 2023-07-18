@@ -29,7 +29,6 @@ Participants will be able to do the following by the end of this workshop:
   -  Be aware of the importance of photo resolution when printing large posters
   -  Be able to create a QR code
   -  Be able to change the poster size in Canva
-  -  Know how to download posters for printing or online sharing
 
 
 Attendees can apply the skills learned in this workshop to the other layouts available on Canva.
