@@ -1,11 +1,11 @@
 ---
 layout: default
-title: 2-UVic PPT Template
-nav_order: 3
+title: 2 - Find a Template on Canva
+nav_order: 2
 parent: Workshop Activities
 ---
 
-# Introduction to Academic Posters With Canva
+# Find a Template on Canva
 
 <img src="images/act-1/0.png" alt="poster example" style="float:right;width:360px;margin-left:10px;">
 
