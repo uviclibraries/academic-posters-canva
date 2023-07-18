@@ -31,7 +31,7 @@ In this exercise, you will use tools within Canva to make changes to a template.
 
 
 <br>
-5.  Adding Elements:<img src="images/19.png" alt="new slide menu" style="float:left;margin-left:10px;">
+5.  Adding Elements:
     -   If you would like to search for more clipart, charts, or photos to add to your poster, click on the Elements icon in the far left sidebar menu.
     -   Many clipart items can have their colours customized. To edit the colours, click on the clipart in your poster to select it and then click on the colour tiles in the top menu to bring up the colour menu and select a replacement colour. 
 
