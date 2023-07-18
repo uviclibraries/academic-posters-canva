@@ -19,8 +19,8 @@ In this exercise, you will create an Academic Poster using Canva. If you have an
 
 3. Choose a template: <img src="images/04.png" alt="new slide" style="float:right;width:200px;margin-left:10px;">
    - You should have templates showing in the left sidebar with a Search field at the top. Type “Research posters” in the search field to bring up template ideas. 
-   - Scroll through to find a template you like. If you mouse over them, you may notice that many of them will start to move like a slideshow, indicating multiple pages. These extra pages are just there to provide extra, optional matching content that fit the theme of the template (e.g., charts and graphs and/or graphics and text boxes) that you can move to your main page if you need them.  
-    - Once you find a template you like, click on it. If it has multiple pages, it will ask if you want to apply the other pages. Click the “apply both/all pages” button. You can discard the extra pages when you are finished designing your poster.  <img src="images/05.png" alt="new slide" style="float:right;width:200px;margin-left:10px;">
+   - Scroll through to find a template you like. If you mouse over them, you may notice that many of them will start to move like a slideshow, indicating multiple pages. These extra pages are just there to provide extra, optional matching content that fit the theme of the template (e.g., charts and graphs and/or graphics and text boxes) that you can move to your main page if you need them.    <img src="images/05.png" alt="new slide" style="float:right;width:200px;margin-left:10px;">
+    - Once you find a template you like, click on it. If it has multiple pages, it will ask if you want to apply the other pages. Click the “apply both/all pages” button. You can discard the extra pages when you are finished designing your poster.
 
    
 
