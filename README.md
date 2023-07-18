@@ -1,4 +1,4 @@
-# Pursuasive Academic Posters
+# Pursuasive Academic Posters with Canva
 ### UVic Libraries Digital Scholarship Commmons
 
 Link to workshop: https://uviclibraries.github.io/academic-posters-canva/
