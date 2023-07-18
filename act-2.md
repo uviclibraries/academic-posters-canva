@@ -18,25 +18,25 @@ In this exercise, you will use tools within Canva to make changes to a template.
     -   You can click on them to apply them to your design and the largest font will be set to your title, the medium font to your headings, and the smallest to your body text. You can click through various sets to see how this changes the feel of your poster.
   
 3.  Color Palettes:<img src="images/09.png" alt="new slide menu" style="float:right;width:200px;margin-left:10px;">
-    -   Going into “see all” in Color Palettes will bring up various color combinations. Clicking on one will apply it to your template. Clicking on the same one again will use the same colours but apply them to different areas of the template, which will change the whole feel of the template even with the same few colours. <img src="images/10.png" alt="new slide menu" style="float:right;width:200px;margin-left:10px;"><img src="images/11.png" alt="new slide menu" style="float:right;width:200px;margin-left:10px;"><img src="images/12.png" alt="new slide menu" style="float:right;width:200px;margin-left:10px;"><img src="images/13.png" alt="new slide menu" style="float:right;width:200px;margin-left:10px;">
+    -   Going into “see all” in Color Palettes will bring up various color combinations. Clicking on one will apply it to your template. Clicking on the same one again will use the same colours but apply them to different areas of the template, which will change the whole feel of the template even with the same few colours. <img src="images/26.png" alt="new slide menu" style="float:right;width:240px;margin-left:10px;">
 
 4.  Charts:
     -   In the second (and/or third) page of the template you can find charts and possibly other themed graphics for the Research Poster template you have chosen. You can simply click on them and drag them up to the first page if you would like to use them in your poster.
-    -   When a chart is selected, a toolbar will appear on the left side with options to fill in the details for the chart.<img src="images/14.png" alt="new slide menu" style="float:right;width:200px;margin-left:10px;">
+    -   When a chart is selected, a toolbar will appear on the left side with options to fill in the details for the chart.<img src="images/27.png" alt="new slide menu" style="float:right;width:200px;margin-left:10px;">
     -   Additionally, the Edit menu at the top will change with options specific to the chart, such as tiles to customize the colours of the chart and options to adjust the roundness of the chart lines, and change the size and shape of marker points.
-    -   If using a pictogram, options will come up in the toolbar to change the icons to more appropiately match the theme of your data.<img src="images/15.png" alt="new slide menu" style="float:right;width:200px;margin-left:10px;">
-<img src="images/16.png" alt="new slide menu" style="float:right;width:200px;margin-left:10px;"><img src="images/17.png" alt="new slide menu" style="float:right;width:200px;margin-left:10px;"><img src="images/18.png" alt="new slide menu" style="float:right;width:200px;margin-left:10px;">
-5.  Adding Elements:
+    -   If using a pictogram, options will come up in the toolbar to change the icons to more appropiately match the theme of your data.<img src="images/28.png" alt="new slide menu" style="float:right;width:200px;margin-left:10px;">
+
+5.  Adding Elements:<img src="images/19.png" alt="new slide menu" style="float:right;margin-left:10px;">
     -   If you would like to search for more clipart, charts, or photos to add to your poster, click on the Elements icon in the far left sidebar menu.
     -   Many clipart items can have their colours customized. To edit the colours, click on the clipart in your poster to select it and then click on the colour tiles in the top menu to bring up the colour menu and select a replacement colour. 
 
-6.  Uploading Graphics:
+6.  Uploading Graphics: 
     -   To upload your own graphics, such as a logo, click on the Uploads icon in the far left sidebar menu and then click on "Upload files" to choose the files on your computer. Once you find and select them, click on Open.
     -   Tip: High resolution PNG files with a transparent background usually work well in designs.
   
-7.  Creating a QR code:
+7.  Creating a QR code:<img src="images/21.png" alt="new slide menu" style="float:right;margin-left:10px;">
     -   Click on the **Apps** button in the far left navigation bar (see image).
-    -   Click on the **QR Code icon** in the Create Something New section.
+    -   Click on the **QR Code icon** in the Create Something New section. <img src="images/22.png" alt="new slide menu" style="float:right;margin-left:10px;">
     -   Paste the URL to your research paper into the while field that appears, and then click on the **Generate code button**.
     -   Move the QR code that appeared on your poster to where you would like it and resize it to fit the space available.
       
