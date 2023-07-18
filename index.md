@@ -5,7 +5,7 @@ nav_order: 1
 ---
 
 # Creating Academic Posters with Canva
-
+<img src="images/25.png" alt="poster example" style="float:right;width:360px;margin-left:10px;">
 - Pre-workshop activities: 20 min 
 - Introductory presentation: 15 min
 - Hands-on activities: 50 min
