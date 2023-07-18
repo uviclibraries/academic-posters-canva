@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2 - Find a Template on Canva
+title: 1 - Find a Template on Canva
 nav_order: 2
 parent: Workshop Activities
 ---
