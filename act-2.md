@@ -26,11 +26,6 @@ In this exercise, you will use tools within Canva to make changes to a template.
     -   Additionally, the Edit menu at the top will change with options specific to the chart, such as tiles to customize the colours of the chart and options to adjust the roundness of the chart lines, and change the size and shape of marker points.
     -   If using a pictogram, options will come up in the toolbar to change the icons to more appropiately match the theme of your data.
 
-
-
-
-
-<br>
 5.  Adding Elements:
     -   If you would like to search for more clipart, charts, or photos to add to your poster, click on the Elements icon in the far left sidebar menu.
     -   Many clipart items can have their colours customized. To edit the colours, click on the clipart in your poster to select it and then click on the colour tiles in the top menu to bring up the colour menu and select a replacement colour. 
