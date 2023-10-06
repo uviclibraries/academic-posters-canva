@@ -7,7 +7,7 @@ parent: Workshop Activities
 
 # Customize Your Canva Research Poster Template
 
-In this exercise, you will use tools within Canva to make changes to a template.  If you have any questions or get stuck, please ask your instructor for assistance.
+In this exercise, you will use tools within Canva to make changes to a template.  If you have any questions or get stuck, please ask your instructor for assistance...
 
 1.  Customize the template: <img src="images/06.png" alt="new slide menu" style="float:right;width:200px;margin-left:10px;">
     -   Continuing on from activity #1 with an open Research Poster template, click on the arrow at the top of the left sidebar next to the template title to get back into the templates menu. 
