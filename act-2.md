@@ -39,5 +39,16 @@ In this exercise, you will use tools within Canva to make changes to a template.
     -   Click on the **QR Code icon** in the Create Something New section. <img src="images/22.png" alt="new slide menu" style="float:right;margin-left:10px;">
     -   Paste the URL to your research paper into the while field that appears, and then click on the **Generate code button**.
     -   Move the QR code that appeared on your poster to where you would like it and resize it to fit the space available.
-      
+
+<script>  
+    function toggle(input) {
+        var x = document.getElementById(input);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
+
 [NEXT STEP: Quick Tips](tips.html){: .btn .btn-blue }
