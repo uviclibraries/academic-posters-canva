@@ -29,6 +29,11 @@ In this exercise, you will create an Academic Poster using Canva. If you have an
    - Scroll through to find a template you like. If you mouse over them, you may notice that many of them will start to move like a slideshow, indicating multiple pages. These extra pages are just there to provide extra, optional matching content that fit the theme of the template (e.g., charts and graphs and/or graphics and text boxes) that you can move to your main page if you need them.    <img src="images/05.png" alt="new slide" style="float:right;width:200px;margin-left:10px;">
     - Once you find a template you like, click on it. If it has multiple pages, it will ask if you want to apply the other pages. Click the “apply both/all pages” button. You can discard the extra pages when you are finished designing your poster.
 
+<button onclick="toggle('gif2')">Show / Hide Animation </button>
+<div id="gif2">
+      <img src="images/canva-p2.gif">
+      </div>
+      
 -Note about resizing in Canva: As mentioned above, the most template results for Research Posters come up if you search using a size of 48x36". If your size requirements are different, the best option is to start by creating a poster in 48x36" size, choose a template you like, and then follow the below steps:
    - with your chosen template left open, open an additional browser tab and go to the Canva home page
    - follow the above steps to create another poster, this time with your other required size (e.g., 54x36")
