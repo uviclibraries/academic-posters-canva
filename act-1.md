@@ -3,6 +3,7 @@ layout: default
 title: 1 - Find a Template on Canva
 nav_order: 2
 parent: Workshop Activities
+customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 
 # Find a Template on Canva
