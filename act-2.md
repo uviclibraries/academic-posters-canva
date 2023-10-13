@@ -25,6 +25,11 @@ In this exercise, you will use tools within Canva to make changes to a template.
 3.  Color Palettes:<img src="images/09.png" alt="new slide menu" style="float:right;width:200px;margin-left:10px;">
     -   Going into “see all” in Color Palettes will bring up various color combinations. Clicking on one will apply it to your template. Clicking on the same one again will use the same colours but apply them to different areas of the template, which will change the whole feel of the template even with the same few colours. <img src="images/26.png" alt="new slide menu" style="float:right;width:240px;margin-left:10px;">
 
+      <button onclick="toggle('gif2')">Show / Hide Animation </button>
+<div id="gif2">
+      <img src="images/canva-pp2.gif">
+      </div>
+      
 4.  Charts:
     -   In the second (and/or third) page of the template you can find charts and possibly other themed graphics for the Research Poster template you have chosen. You can simply click on them and drag them up to the first page if you would like to use them in your poster.
     -   When a chart is selected, a toolbar will appear on the left side with options to fill in the details for the chart.<img src="images/27.png" alt="new slide menu" style="float:right;width:200px;margin-left:10px;"><br>
