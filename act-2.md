@@ -45,16 +45,31 @@ In this exercise, you will use tools within Canva to make changes to a template.
     -   If you would like to search for more clipart, charts, or photos to add to your poster, click on the Elements icon in the far left sidebar menu.
     -   Many clipart items can have their colours customized. To edit the colours, click on the clipart in your poster to select it and then click on the colour tiles in the top menu to bring up the colour menu and select a replacement colour. 
 
+      <button onclick="toggle('gif4')">Show / Hide Animation </button>
+<div id="gif4">
+      <img src="images/canva-pp4.gif">
+      </div>
+      
 6.  Uploading Graphics: 
     -   To upload your own graphics, such as a logo, click on the Uploads icon in the far left sidebar menu and then click on "Upload files" to choose the files on your computer. Once you find and select them, click on Open.
     -   Tip: High resolution PNG files with a transparent background usually work well in designs.
-  
+
+        <button onclick="toggle('gif5')">Show / Hide Animation </button>
+<div id="gif5">
+      <img src="images/canva-pp5.gif">
+      </div>
+      
 7.  Creating a QR code:<img src="images/21.png" alt="new slide menu" style="float:right;margin-left:10px;">
     -   Click on the **Apps** button in the far left navigation bar (see image).
     -   Click on the **QR Code icon** in the Create Something New section. <img src="images/22.png" alt="new slide menu" style="float:right;margin-left:10px;">
     -   Paste the URL to your research paper into the while field that appears, and then click on the **Generate code button**.
     -   Move the QR code that appeared on your poster to where you would like it and resize it to fit the space available.
 
+        <button onclick="toggle('gif6')">Show / Hide Animation </button>
+<div id="gif6">
+      <img src="images/canva-pp6.gif">
+      </div>
+      
 <script>  
     function toggle(input) {
         var x = document.getElementById(input);
