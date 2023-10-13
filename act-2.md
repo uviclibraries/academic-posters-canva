@@ -12,7 +12,12 @@ In this exercise, you will use tools within Canva to make changes to a template.
 1.  Customize the template: <img src="images/06.png" alt="new slide menu" style="float:right;width:200px;margin-left:10px;">
     -   Continuing on from activity #1 with an open Research Poster template, click on the arrow at the top of the left sidebar next to the template title to get back into the templates menu. 
     -   Click on the Styles tab. Make sure the Search field is empty. In this new sidebar menu there are various helpful tools for designing your poster. <img src="images/07.png" alt="new slide menu" style="float:right;width:200px;margin-left:10px;">
-
+    
+      <button onclick="toggle('gif1')">Show / Hide Animation </button>
+<div id="gif1">
+      <img src="images/canva-pp1.gif">
+      </div>
+      
 2.  Font Sets:
     -   Clicking on “see all in “Font Sets” will bring up various font combinations Canva suggests together,  with 1-3 fonts (sometimes one font will have different variations within the same font, e.g., light and bold). <img src="images/08.png" alt="new slide menu" style="float:right;width:200px;margin-left:10px;">
     -   You can click on them to apply them to your design and the largest font will be set to your title, the medium font to your headings, and the smallest to your body text. You can click through various sets to see how this changes the feel of your poster.
