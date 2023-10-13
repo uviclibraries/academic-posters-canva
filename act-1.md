@@ -11,12 +11,11 @@ In this exercise, you will create an Academic Poster using Canva. If you have an
 
 1.  Create a Canva account at 
 [canva.com](https://ww.canva.com/){:target="_blank"}  <img src="images/01.png" alt="new slide" style="float:right;margin-left:10px;">
-   
 2.  Click on the Create a design button on the top right of the screen.  <img src="images/02.png" alt="new slide" style="float:right;margin-left:10px;">
     - At the bottom of the drop-down that comes up, there is a button for “Custom size”. Click on this to bring up sizing options. 
     - This will bring up the Custom Size options. Click on the little drop down for units (default is “px” for pixels) and change it to “in” for inches.  <img src="images/03.png" alt="new slide" style="float:right;width:200px;margin-left:10px;">
     - Type in 48 for Width and 36 for Height (**Note: starting with this size will bring up the most results in the Canva templates search, and is a common academic poster size. If you need another size, see the note at the bottom of this activity.**) and then click Create new design. This will open a new tab with a blank canvas to start working in.
-    - 
+ 
       <button onclick="toggle('gif1')">Show / Hide Animation </button>
 <div id="gif1">
       <img src="images/canva-p1.gif">
