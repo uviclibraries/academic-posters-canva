@@ -41,6 +41,16 @@ In this exercise, you will create an Academic Poster using Canva. If you have an
    - with everything selected, you can right-click with your mouse to bring up a menu with the option to copy everything (alternatively you can use the keyboard shortcut of Ctrl-C or Command-C)
    - go to your new tab with the blank poster in the correct size and paste the contents from the other template into the blank canvas.
    - You will need to resize the contents. If everything is still selected, you can grab the corner and drag it all to match the size of the template. 
-   
+
+<script>  
+    function toggle(input) {
+        var x = document.getElementById(input);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
 
 [NEXT STEP: Customize Your Poster Activity](act-2.html){: .btn .btn-blue }
