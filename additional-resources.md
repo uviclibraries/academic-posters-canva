@@ -13,7 +13,10 @@ nav_order: 10
 - Traditional style poster template: [UVic Academic Poster Template for PowerPoint](http://bit.ly/2OxB9Wi){:target="_blank"} (click on the Academic Research Posters option)
 - Our workshop on academic posters in PowerPoint: [Persuasive Academic Posters in PowerPoint](https://lib.uvic.ca/app){:target="_blank"}
 - Large format printing services on campus: [Blink Printing](https://www.uvicbookstore.ca/info/blinkprinting){:target="_blank"}
-  
+
+## Design Tips
+
+
 ## Acknowledgements
 
 - [UBC Library Research Commons](https://github.com/ubc-library-rc/), for their assistance with the Jekyll template for GitHub Pages.
