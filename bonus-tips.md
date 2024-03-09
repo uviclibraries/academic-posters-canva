@@ -1,6 +1,9 @@
-
-
-
+---
+layout: default
+title: 4-Bonus Academic Poster Tips
+nav_order: 5
+parent: Workshop Activities
+---
 
 # Academic Poster Tips with Canva
 <img src="images//canva-poster-08.png" style="float:right;margin-left:10px; width:260px;"> 
