@@ -4,7 +4,7 @@ title: Earn a Workshop Badge
 nav_order: 9
 ---
 
-<img src="images/badgr-logo1.png" alt="badgr logo" style="float:right;width:180px;margin-left:10px;"> 
+<img src="https://api.badgr.io/public/badges/ho9lDh6xQoaAv6flcMKqNg/image" alt="badgr logo" style="float:right;width:180px;margin-left:10px;"> 
 
 # Informal Credentials or Digital Badges
 
