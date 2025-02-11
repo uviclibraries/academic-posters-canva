@@ -23,7 +23,6 @@ In this exercise, you will create an Academic Poster using Canva. If you have an
       </div>
 
 3. Choose a template: <img src="images/04.png" alt="new slide" style="float:right;width:200px;margin-left:10px;">
-
    - You should have templates showing in the left sidebar with a Search field at the top. Type “Research poster” or "Academic poster" in the search field to bring up template ideas. 
    - Scroll through to find a template you like. If you mouse over them, you may notice that many of them will start to move like a slideshow, indicating multiple pages. These extra pages are just there to provide extra, optional matching content that fit the theme of the template (e.g., charts and graphs and/or graphics and text boxes) that you can move to your main page if you need them.    <img src="images/05.png" alt="new slide" style="float:right;width:200px;margin-left:10px;">
     - Once you find a template you like, click on it. If it has multiple pages, it will ask if you want to apply the other pages. Click the “apply both/all pages” button. You can discard the extra pages when you are finished designing your poster.
@@ -31,9 +30,10 @@ In this exercise, you will create an Academic Poster using Canva. If you have an
 <button onclick="toggle('gif2')">Show / Hide Animation </button>
 <div id="gif2">
       <img src="images/canva-p2.gif"> <br> <br> <br>
-
 **OR**
-   - The easiest way to use a #BetterPoster format is to use and modify this [https://www.canva.com/design/DAF-9Zg5fi4/p3raWJdO9DwZz6H1EcoJbA/view?utm_content=DAF-9Zg5fi4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=previe/](https://www.canva.com/design/DAF-9Zg5fi4/p3raWJdO9DwZz6H1EcoJbA/view?utm_content=DAF-9Zg5fi4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=previe)
+   - The easiest way to use a #BetterPoster format is to use and modify this [UVic branded template](https://www.canva.com/design/DAF-9Zg5fi4/p3raWJdO9DwZz6H1EcoJbA/view?utm_content=DAF-9Zg5fi4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=previe)
+
+
  </div>
       
 # BONUS --How to resize in Canva: 
