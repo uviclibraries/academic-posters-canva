@@ -20,7 +20,7 @@ In this exercise, you will create an Academic Poster using Canva. If you have an
 <button onclick="toggle('gif1')">Show / Hide Animation </button>
 <div id="gif1">
       <img src="images/canva-p1.gif">
-      </div>
+    
 
 3. Choose a template: <img src="images/04.png" alt="new slide" style="float:right;width:200px;margin-left:10px;">
    - You should have templates showing in the left sidebar with a Search field at the top. Type “Research poster” or "Academic poster" in the search field to bring up template ideas. 
@@ -30,13 +30,11 @@ In this exercise, you will create an Academic Poster using Canva. If you have an
 <button onclick="toggle('gif2')">Show / Hide Animation </button>
 <div id="gif2">
       <img src="images/canva-p2.gif"> <br> <br>
-
+  </div>
+  
     **OR**
    - The easiest way to use a #BetterPoster format is to use and modify this [UVic branded template](https://www.canva.com/design/DAF-9Zg5fi4/p3raWJdO9DwZz6H1EcoJbA/view?utm_content=DAF-9Zg5fi4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=previe)
 
-
- </div>
-      
 # BONUS --How to resize in Canva: 
    - with your chosen template left open, open an additional browser tab and go to the Canva home page
    - follow the above steps to create another poster, this time with your other required size (e.g., 54x36")
