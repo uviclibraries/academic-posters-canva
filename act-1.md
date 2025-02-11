@@ -29,11 +29,13 @@ In this exercise, you will create an Academic Poster using Canva. If you have an
  <br>
 <button onclick="toggle('gif2')">Show / Hide Animation </button>
 <div id="gif2">
-      <img src="images/canva-p2.gif"> <br> <br>
+      <img src="images/canva-p2.gif"> 
   </div>
+  <br> <br>
   
-    **OR**
+4. A quick option:
    - The easiest way to use a #BetterPoster format is to use and modify this [UVic branded template](https://www.canva.com/design/DAF-9Zg5fi4/p3raWJdO9DwZz6H1EcoJbA/view?utm_content=DAF-9Zg5fi4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=previe)
+<br> <br>
 
 # BONUS --How to resize in Canva: 
    - with your chosen template left open, open an additional browser tab and go to the Canva home page
