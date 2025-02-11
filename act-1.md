@@ -33,7 +33,7 @@ In this exercise, you will create an Academic Poster using Canva. If you have an
       <img src="images/canva-p2.gif"> <br> <br> <br>
 
 **OR**
-   - The easiest way to use a #BetterPoster format is to use and modify this [UVic branded Template](https://www.canva.com/design/DAF-9Zg5fi4/p3raWJdO9DwZz6H1EcoJbA/view?utm_content=DAF-9Zg5fi4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=previe){:target="_blank"}
+   - The easiest way to use a #BetterPoster format is to use and modify this [UVic branded Template](https://www.canva.com/design/DAF-9Zg5fi4/p3raWJdO9DwZz6H1EcoJbA/view?utm_content=DAF-9Zg5fi4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=previe/)(https://www.canva.com/design/DAF-9Zg5fi4/p3raWJdO9DwZz6H1EcoJbA/view?utm_content=DAF-9Zg5fi4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=previe){:target="_blank"}
  </div>
       
 # BONUS --How to resize in Canva: 
