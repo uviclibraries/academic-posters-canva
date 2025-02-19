@@ -20,7 +20,7 @@ In this exercise, you will create an Academic Poster using Canva. If you have an
 <button onclick="toggle('gif1')">Show / Hide Animation </button>
 <div id="gif1">
       <img src="images/canva-p1.gif">
-    
+      </div>
 
 3. Choose a template: <img src="images/04.png" alt="new slide" style="float:right;width:200px;margin-left:10px;">
    - You should have templates showing in the left sidebar with a Search field at the top. Type “Research poster” or "Academic poster" in the search field to bring up template ideas. 
