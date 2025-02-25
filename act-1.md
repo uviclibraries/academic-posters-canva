@@ -12,6 +12,12 @@ In this exercise, you will create an Academic Poster using Canva. If you have an
 
 1.  Create a Canva account at 
 [canva.com](https://ww.canva.com/){:target="_blank"}  <img src="images/01.png" alt="new slide" style="float:right;margin-left:10px;">
+
+## The UVic #BetterPoster Template
+2. The easiest way to use a #BetterPoster format is to use and modify this [UVic branded template](https://www.canva.com/design/DAF-9Zg5fi4/p3raWJdO9DwZz6H1EcoJbA/view?utm_content=DAF-9Zg5fi4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
+<br> <br>
+
+## Use a Canva Academic Poster Template
 2.  Click on the Create a design button on the top right of the screen.  <img src="images/02.png" alt="new slide" style="float:right;margin-left:10px;">
     - At the bottom of the drop-down that comes up, there is a button for “Custom size”. Click on this to bring up sizing options. 
     - This will bring up the Custom Size options. Click on the little drop down for units (default is “px” for pixels) and change it to “in” for inches.  <img src="images/03.png" alt="new slide" style="float:right;width:200px;margin-left:10px;">
@@ -31,10 +37,6 @@ In this exercise, you will create an Academic Poster using Canva. If you have an
     <div id="gif2">
     <img src="images/canva-p2.gif"> 
     </div>
-  
-4. A quick option:
-   - The easiest way to use a #BetterPoster format is to use and modify this [UVic branded template](https://www.canva.com/design/DAF-9Zg5fi4/p3raWJdO9DwZz6H1EcoJbA/view?utm_content=DAF-9Zg5fi4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=previe)
-<br> <br>
 
 # BONUS --How to resize in Canva: 
    - with your chosen template left open, open an additional browser tab and go to the Canva home page
