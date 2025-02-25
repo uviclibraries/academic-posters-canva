@@ -13,11 +13,13 @@ In this exercise, you will create an Academic Poster using Canva. If you have an
 1.  Create a Canva account at 
 [canva.com](https://ww.canva.com/){:target="_blank"}  <img src="images/01.png" alt="new slide" style="float:right;margin-left:10px;">
 
-## The UVic #BetterPoster Template
-2. The easiest way to use a #BetterPoster format is to use and modify this [UVic branded template](https://www.canva.com/design/DAF-9Zg5fi4/p3raWJdO9DwZz6H1EcoJbA/view?utm_content=DAF-9Zg5fi4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
+## Use the UVic #BetterPoster Template
+1. The easiest way to use a #BetterPoster format is to use and modify this [UVic branded template](https://www.canva.com/design/DAF-9Zg5fi4/p3raWJdO9DwZz6H1EcoJbA/view?utm_content=DAF-9Zg5fi4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview){:target="_blank"}
+2. Click on the **Use template for new design** button at the bottom of the page.
+3. Modify and customize the template for your research project, so communicate to the audience you've selected.
 
 ## Use a Canva Academic Poster Template
-2.  Click on the Create a design button on the top right of the screen.  <img src="images/02.png" alt="new slide" style="float:right;margin-left:10px;">
+2.  Click on the **Create a Design** button on the top right of the screen.  <img src="images/02.png" alt="new slide" style="float:right;margin-left:10px;">
     - At the bottom of the drop-down that comes up, there is a button for **Custom size**. Click on this to bring up sizing options. 
     - This will bring up the Custom Size options. Click on the little drop-down for units (default is “px” for pixels) and change it to “in” for inches.  <img src="images/03.png" alt="new slide" style="float:right;width:200px;margin-left:10px;">
     - Type in your chosen size (commonly 48 for Width and 36 for Height or the opposite for vertical)  and then click Create new design. This will open a new tab with a blank canvas to start working in.
