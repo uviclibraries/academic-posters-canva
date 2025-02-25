@@ -16,7 +16,7 @@ In this exercise, you will create an Academic Poster using Canva. If you have an
 ## Use the UVic #BetterPoster Canva Template
 1. The easiest way to use a #BetterPoster format is to use and modify this [UVic branded template](https://www.canva.com/design/DAF-9Zg5fi4/p3raWJdO9DwZz6H1EcoJbA/view?utm_content=DAF-9Zg5fi4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview){:target="_blank"}
 2. Click on the **Use template for new design** button at the bottom of the page.
-3. Modify and customize the template for your research project, so communicate to the audience you've selected.
+3. Move on to [Activity 2](act-2.html) to modify and customize the template for your research project, so communicate to the audience you've selected.
 
 ## Use a Canva Academic Poster Template
 2.  Click on the **Create a Design** button on the top right of the screen.  <img src="images/02.png" alt="new slide" style="float:right;margin-left:10px;">
