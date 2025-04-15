@@ -22,17 +22,15 @@ Canva is a free graphic design tool that helps users create customizable posters
 
 Participants will be able to do the following by the end of this workshop:
 
-  -  Be able to find an appropriate poster template
-  -  Be aware of how to format text in a poster template so it is appropriately sized and formatted
-  -  Be able to import photos and logos in Canva
-  -  Be able to create charts in Canva
-  -  Be aware of the importance of photo resolution when printing large posters
-  -  Be able to create a QR code
-  -  Be able to change the poster size in Canva
-
+  -  Find an appropriate poster template
+  -  Format text in a poster template so it is appropriately sized and formatted
+  -  Import photos and logos in Canva
+  -  Create charts in Canva
+  -  Use appropriate photo resolution when printing large posters
+  -  Create a QR code
+  -  Change the poster size in Canva
 
 Attendees can apply the skills learned in this workshop to the other layouts available on Canva.
 
 
- 
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
