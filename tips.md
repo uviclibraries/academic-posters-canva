@@ -17,6 +17,7 @@ Along with the following tips, a sheet you may find useful is the [worksheet fro
     -   Keeps the sequence well-ordered and obvious.
 2.  What is the most important or interesting finding from your research project?
 3.  An academic poster is not a research paper stuck to a board; it shows, not tells, your research story.
+
 <br>
 **Define Your Message**
 4.  What is the one thing you want your audience to learn?
@@ -24,10 +25,12 @@ Along with the following tips, a sheet you may find useful is the [worksheet fro
 6.  Focus on your message throughout the poster. If something is interesting but doesn’t reinforce your message, then leave it out!
 7.  If you have an interesting result, state it explicitly in your title.
 8.  Space is tight, so rather than repeating the results, state your interpretations in the conclusion section.
+
 <br>
 **Know Your Audience**
 9.  General audience? If so, they won’t have any familiarity with your subject area – avoid the use of jargon, use basic descriptions only.
 0.  If you’re presenting for an audience in your field, it’s okay to use technical terms.
+
 <br>
 **Design and Layout Tips**
 1.  Start with a template.
@@ -36,6 +39,7 @@ Along with the following tips, a sheet you may find useful is the [worksheet fro
 4.  Your Title and Main finding should be short and draw interest (Academic titles often are not good at drawing interest). DON’T USE ALL CAPS. If you have an interesting finding, include it in your title.
 5.  Make sure that your key point is obvious.
 6.  Use headlines, font size, bullets, and numbering to help organize your poster.
+
 <br>
 **Categories of Information to Include**
 7.  Title (Short eye catching & concise)
@@ -44,6 +48,7 @@ Along with the following tips, a sheet you may find useful is the [worksheet fro
 0.  Results
 1.  Conclusions
 2.  Citations, Acknowledgments (including awards & funding), & Institutional affiliation and contact information
+
 <br>
 **Photo and Chart Considerations**
 3.  Make sure all your photos and charts are visible from 3m away.
@@ -58,6 +63,7 @@ Along with the following tips, a sheet you may find useful is the [worksheet fro
     -   [Google Advanced Image Search](https://www.google.ca/advanced_image_search){:target="_blank"}
     -   [CreativeCommons image search](https://search.creativecommons.org/){:target="_blank"}
 7.  Don’t forget to provide captions for your graphics & photos.
+
 <br>
 **Copyright Issues For Images**
 0.  Published images and charts are all subject to copyright law, so you can’t simply use images you find on the internet or through Google image search. Generally speaking images you may want to use for your poster fall under one of the following categories:
