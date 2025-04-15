@@ -18,7 +18,6 @@ Along with the following tips, a sheet you may find useful is the [worksheet fro
 2.  What is the most important or interesting finding from your research project?
 3.  An academic poster is not a research paper stuck to a board; it shows, not tells, your research story.
 
-<br>
 **Define Your Message**
 4.  What is the one thing you want your audience to learn?
 5.  Your “one thing” should be supported by a compelling combination of images, charts, and short blocks of text.
@@ -26,12 +25,10 @@ Along with the following tips, a sheet you may find useful is the [worksheet fro
 7.  If you have an interesting result, state it explicitly in your title.
 8.  Space is tight, so rather than repeating the results, state your interpretations in the conclusion section.
 
-<br>
 **Know Your Audience**
 9.  General audience? If so, they won’t have any familiarity with your subject area – avoid the use of jargon, use basic descriptions only.
 0.  If you’re presenting for an audience in your field, it’s okay to use technical terms.
 
-<br>
 **Design and Layout Tips**
 1.  Start with a template.
 2.  Make sure your poster meets the guidelines for the event at which it will be displayed.
@@ -40,7 +37,6 @@ Along with the following tips, a sheet you may find useful is the [worksheet fro
 5.  Make sure that your key point is obvious.
 6.  Use headlines, font size, bullets, and numbering to help organize your poster.
 
-<br>
 **Categories of Information to Include**
 7.  Title (Short eye catching & concise)
 8.  Introduction or context (but not your abstract – the poster is in itself an abstract of your research)
@@ -49,7 +45,6 @@ Along with the following tips, a sheet you may find useful is the [worksheet fro
 1.  Conclusions
 2.  Citations, Acknowledgments (including awards & funding), & Institutional affiliation and contact information
 
-<br>
 **Photo and Chart Considerations**
 3.  Make sure all your photos and charts are visible from 3m away.
 4.  Images copied from the web can often be low resolution and are not of high enough quality for a printed poster.
@@ -64,7 +59,6 @@ Along with the following tips, a sheet you may find useful is the [worksheet fro
     -   [CreativeCommons image search](https://search.creativecommons.org/){:target="_blank"}
 7.  Don’t forget to provide captions for your graphics & photos.
 
-<br>
 **Copyright Issues For Images**
 0.  Published images and charts are all subject to copyright law, so you can’t simply use images you find on the internet or through Google image search. Generally speaking images you may want to use for your poster fall under one of the following categories:
     -   Public domain - you can use and modify public domain images as you see fit. Please consult a copyright librarian or online resource to determine the copyright status of an image. Example: [UVic’s Copyright Resource.](https://www.uvic.ca/library/featured/copyright/support/resources/index.php){:target="_blank"}
