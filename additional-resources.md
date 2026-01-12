@@ -14,6 +14,9 @@ nav_order: 10
 - Our workshop on academic posters in PowerPoint: [Persuasive Academic Posters in PowerPoint](https://lib.uvic.ca/app){:target="_blank"}
 - Large format printing services on campus: [Blink Printing](https://www.uvicbookstore.ca/info/blinkprinting){:target="_blank"} or [Zap Copy](https://zapcopy.com/){:target="_blank"}
 
+## Creative Commons Media Search
+- [Creative Commons Photo & Image Search](https://open4us.org/find-oer/#Photo/ImageSearch){:target="_blank"}
+
 ## Acknowledgements
 - [UBC Library Research Commons](https://github.com/ubc-library-rc/), for their assistance with the Jekyll template for GitHub Pages.
 
