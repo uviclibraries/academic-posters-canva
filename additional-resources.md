@@ -14,8 +14,24 @@ nav_order: 10
 - Our workshop on academic posters in PowerPoint: [Persuasive Academic Posters in PowerPoint](https://lib.uvic.ca/app){:target="_blank"}
 - Large format printing services on campus: [Blink Printing](https://www.uvicbookstore.ca/info/blinkprinting){:target="_blank"} or [Zap Copy](https://zapcopy.com/){:target="_blank"}
 
-## Creative Commons Media Search
-- [Creative Commons Photo & Image Search](https://open4us.org/find-oer/#Photo/ImageSearch){:target="_blank"}
+## Photos, clip art, and other media
+   -   [Pexels](https://www.pexels.com){:target="_blank"} (photos and video clips)
+   -   [Unsplash for Education collections](https://unsplash.com/@unsplashforeducation/collections){:target="_blank"} (photos, scientific images, art scans, etc)
+   -   [Wikimedia Commons: Free media resources](https://commons.wikimedia.org/wiki/Main_Page){:target="_blank"} 
+   -   [VectorStock](https://vectorstock.com/free-vectors){:target="_blank"} (clip art)
+   -   [The Noun Project](https://thenounproject.com){:target="_blank"} (icons)
+   -   [Creative Commons image search](https://search.creativecommons.org/){:target="_blank"} (images)
+   -   [Creative Commons video search](https://open4us.org/find-oer/#VideoSearch){:target="_blank"}
+   -   [Create Biology figures](http://BioRender.com){:target="_blank"} (AI image generator - 3 images only for free version)
+
+## Design Tips and Examples
+- [The fundamentals of design](https://www.youtube.com/watch?v=YqQx75OPRa0){:target="_blank"}
+- [About colour](https://www.youtube.com/watch?v=_2LLXnUdUIc){:target="_blank"}
+- [Typography](https://youtu.be/sByzHoiYFX0){:target="_blank"}
+- [Design Inspiration](https://www.designspiration.com/){:target="_blank"}
+- Inspiration, creators, freebies: [Dribble](https://dribbble.com/){:target="_blank"}
+- Colour scheme generator: [Coolors](https://coolors.co){:target="_blank"}
+- [WebAIM Colour contrast checker for accessibility](https://webaim.org/resources/contrastchecker/){:target="_blank"}
 
 ## Acknowledgements
 - [UBC Library Research Commons](https://github.com/ubc-library-rc/), for their assistance with the Jekyll template for GitHub Pages.
