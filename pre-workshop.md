@@ -6,8 +6,8 @@ nav_order: 2
 ## Pre-Workshop Videos & Activities
 This workshop is primarily hands-on practice with Canva in order to learn to use key features of the software. To participate fully please do the following before the workshop:
 
-1.   [#Better Poster video](https://www.youtube.com/watch?v=SYk29tnxASs){:target="_blank"} (19 min)
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/SYk29tnxASs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+1.   [#Better Poster video](https://www.youtube.com/watch?v=SYk29tnxASs){:target="_blank"} (19 min)<br>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/SYk29tnxASs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 2.  [Fixing academic posters: the #BetterPoster approach](https://astrobites.org/2020/02/28/fixing-academic-posters-the-betterposter-approach/){:target="_blank"}
 3.   OPTIONAL: Free sources of quality images:
     -   [Unspash.com](https://unsplash.com){:target="_blank"}
